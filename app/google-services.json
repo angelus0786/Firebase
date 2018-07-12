@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "170968838074",
+    "firebase_url": "https://angelusprueba.firebaseio.com",
+    "project_id": "angelusprueba",
+    "storage_bucket": "angelusprueba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170968838074:android:231d601d04987f5a",
+        "android_client_info": {
+          "package_name": "mx.edu.itsmt.angelus.ejemplo_firebases"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170968838074-01bm25jb2j930sg1sstdbtqfoenp70he.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.itsmt.angelus.ejemplo_firebases",
+            "certificate_hash": "9a80cdc77f7addaf2d444fe8d2598f5e82ef0d5c"
+          }
+        },
+        {
+          "client_id": "170968838074-44bp0lp6q19r2oj66qfgdvlg3398n4sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMxOZ0gkD4rK9GxTYCIX679xCySvWNfPw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170968838074-44bp0lp6q19r2oj66qfgdvlg3398n4sa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170968838074:android:320fc416f04df393",
+        "android_client_info": {
+          "package_name": "mx.edu.itsmt.angelus.menudecomidas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170968838074-he9p5mfkv0epe5pcmrb0gj1r6tlad2bp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.itsmt.angelus.menudecomidas",
+            "certificate_hash": "9a80cdc77f7addaf2d444fe8d2598f5e82ef0d5c"
+          }
+        },
+        {
+          "client_id": "170968838074-44bp0lp6q19r2oj66qfgdvlg3398n4sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMxOZ0gkD4rK9GxTYCIX679xCySvWNfPw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170968838074-44bp0lp6q19r2oj66qfgdvlg3398n4sa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
